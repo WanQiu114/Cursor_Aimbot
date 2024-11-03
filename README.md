@@ -13,11 +13,12 @@ Run yolo_screenshot.py if you want to make your own dataset from zero to hero, b
 
 Download training model from https://github.com/THU-MIG/yolov10/releases/tag/v1.1
 
-After everything sets up, you can run this in your virtual-environment: yolo detect train data=re4_aimbot/data.yaml model=yolov10n.pt epochs=30 batch=8 imgsz=640 device=0
-"data=re4_aimbot/data.yaml" is data=folder/data.yaml
-"model=yolov10n.pt" is the model that you have downloaded from https://github.com/THU-MIG/yolov10/releases/tag/v1.1
-Set "epochs" and "batch" that fit your computer, don't make it too large otherwise you won't have pc to use in next few days(if your pc is slow or no GPU support)
-"device=0" is activate GPU, if you don't have one, just remove this
+4. After everything sets up, you can run this in your virtual-environment: yolo detect train data=re4_aimbot/data.yaml model=yolov10n.pt epochs=30 batch=8 imgsz=640 device=0
+   
+"data=re4_aimbot/data.yaml" is data=folder/data.yaml    
+"model=yolov10n.pt" is the model that you have downloaded from https://github.com/THU-MIG/yolov10/releases/tag/v1.1    
+Set "epochs" and "batch" that fit your computer, don't make it too large otherwise you won't have pc to use in next few days(if your pc is slow or no GPU support)    
+"device=0" is activate GPU, if you don't have one, just remove this     
 
 I am using a dataset that has around 200 pictures, yolov10x.pt
 I have uploaded trained model called best.pt, but in zips, you have to extract, but if you can train a better model please do :>
