@@ -31,7 +31,7 @@ the accuracy is ok
 ![train_batch1](https://github.com/user-attachments/assets/d6f4da40-92eb-4791-bb22-fd902a30d3a5)
 ![val_batch1_labels](https://github.com/user-attachments/assets/3261712e-d2d5-47c3-8a9f-197358993234)
 
-In Game:
+# In Game:
 ![1730669454849](https://github.com/user-attachments/assets/ef751369-72dc-4537-8204-a808ec5953de)
 ![1730669420025](https://github.com/user-attachments/assets/49562c85-9b53-4c36-9a93-df7738ea46a7)
 ![1730669549648](https://github.com/user-attachments/assets/5c3a26c9-d467-41ab-9ad9-0e84e12a5bd3)
